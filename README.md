@@ -27,7 +27,7 @@ Some Platforms
 
 13) [Uygulamalı_Canva_Sertifika.pdf](https://github.com/user-attachments/files/32423183/Uygulamali_Canva_Sertifika.pdf)
 
-14) [Bilgi_Teknolojilerine_Giriş_Sertifika.pdf]([Temel_Ağ_Teknolojileri_Sertifika.pdf](https://github.com/user-attachments/files/32423266/Temel_Ag_Teknolojileri_Sertifika.pdf)
+14) [Temel_Ağ_Teknolojileri_Sertifika.pdf](https://github.com/user-attachments/files/32423266/Temel_Ag_Teknolojileri_Sertifika.pdf)
 
 15) [Temel_Elektronik_ve_Robotiğe_Giriş_Sertifika.pdf](https://github.com/user-attachments/files/32423265/Temel_Elektronik_ve_Robotige_Giris_Sertifika.pdf)
 
